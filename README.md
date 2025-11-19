@@ -37,7 +37,7 @@
 
 1、飞牛系统版本需要在 **v0.9.35** 或以上
 
-2、在 **[微备份（WxBackup）](https://github.com/weibeifen/wxbackup/releases/tag/1.0.0.29)**  下载保存微备份的安装包
+2、在 **[点击这里下载👉️微备份（WxBackup）](https://github.com/weibeifen/wxbackup/releases/)**  下载保存微备份的安装包
 
 3、安装：在 **应用中心** 左下方选择 **“手动安装”**，选择刚下载保存的微备份安装包进行安装
 
@@ -319,6 +319,7 @@ BAK_10_TEXT
 如有任何使用上的问题、意见反馈，均可联系客服。
 
 **联系客服：** weibeifen@proton.me
+
 
 
 
