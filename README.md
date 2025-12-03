@@ -266,6 +266,8 @@ systemctl restart trim_http_cgi.service
 
 第二步：最后鉴权完，访问微备份 `http://公网IP(域名):5666/cgi/ThirdParty/WxBackup/index.cgi/backup`
 
+或者直接使用`FN Connect`进行访问，再打开微备份。
+
 
 ### 为什么无法修改备份路径？
 
@@ -402,6 +404,7 @@ BAK_10_TEXT
 如有任何使用上的问题、意见反馈，均可联系客服。
 
 **联系客服：** weibeifen@proton.me
+
 
 
 
