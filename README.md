@@ -498,7 +498,7 @@ systemctl restart trim_http_cgi.service
 
 可通过微信PC端（Windows 版，这里演示的是使用了4.1.6.46）来恢复聊天记录。
 
-微信历史版本：[https://weixin.qq.com/updates?platform=windows&version=4.1.6](https://github.com/cscnk52/wechat-windows-versions/releases)
+[Windows 微信历史版本可在这个Github上找找，或者自己找其他渠道下载](https://github.com/cscnk52/wechat-windows-versions/releases)
 
 根据下图路径（我这里是默认的备份路径，如果设置了备份路径，需要找到自己设置的备份路径，如果没有设置备份路径，那就与我截图中的一致），在飞牛系统中找到以下几个文件，并把这几个文件传到Windows系统中：
 
@@ -539,6 +539,7 @@ BAK_10_TEXT
 如有任何使用上的问题、意见反馈，均可联系客服。
 
 **联系客服：** weibeifen@proton.me
+
 
 
 
