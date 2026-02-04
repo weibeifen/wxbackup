@@ -58,7 +58,7 @@
 
 #### 飞牛OS安装
 
-1、飞牛系统版本需要在 **v0.9.35** 或以上
+1、飞牛系统版本需要在 **v1.1.18** 或以上
 
 2、在 **[点击这里进入Github下载👉️微备份（WxBackup），选择“WxBackup_1.0.0.XX.fpk”名字的安装包](https://github.com/weibeifen/wxbackup/releases/)**  下载保存微备份的安装包
 
@@ -541,6 +541,7 @@ BAK_10_TEXT
 如有任何使用上的问题、意见反馈，均可联系客服。
 
 **联系客服：** weibeifen@proton.me
+
 
 
 
