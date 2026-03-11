@@ -5,7 +5,7 @@
 **关于版本说明**
 
 * 飞牛OS（x86）：**已上线**
-* 飞牛OS（arm）：**已上线（[从v1.0.7.0开始，微备份支持飞牛arm版，但目前暂未上架到飞牛arm版的应用中心，因此需手动安装。可在Releases中找到微备份arm版的安装包“WxBackup_1.0.X.0_arm.fpk”，然后手动进行安装。👉️点击跳转到Releases](https://github.com/weibeifen/wxbackup/releases)）**
+* 飞牛OS（arm）：**已上线（[从v1.0.7.0开始，微备份支持飞牛OS arm版，但目前暂未上架到飞牛OS arm版的应用中心，因此需手动安装。可在Releases中找到微备份arm版的安装包“WxBackup_1.0.X.0_arm.fpk”，然后手动进行安装。👉️点击跳转到Releases](https://github.com/weibeifen/wxbackup/releases)）**
 * Docker版：**即将上线（原计划是春节前上线，因各种妙不可言的因素，只能被迫延后~😭😭😭）**
 
 
@@ -551,6 +551,7 @@ BAK_10_TEXT
 如有任何使用上的问题、意见反馈，均可联系客服。
 
 **联系客服：** weibeifen@proton.me
+
 
 
 
