@@ -6,7 +6,7 @@
 
 * 飞牛OS（x86）：**已上线（[👉️点击前往下载](https://github.com/weibeifen/wxbackup/releases)）**
 * 飞牛OS（ARM）：**已上线（[👉️点击前往下载](https://github.com/weibeifen/wxbackup/releases)）**
-* Docker版：**即将上线（原计划是春节前上线，因不可抗力因素，只能被迫延后~😭😭😭）**
+* Docker版：**即将上线（原计划是春节前上线，因不可抗力因素，继续延后~😭😭😭）**
 
 
 **注意：** 
