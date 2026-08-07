@@ -653,7 +653,7 @@ systemctl restart trim_http_cgi.service
 
 
 ### ● 如果微信号备份了，无法在新Nas设备、新硬盘、新系统上登录，怎么办？
-如果微信号被封了，使用终端工具，把这个 `/var/apps/WxBackup/var/dbs/` 文件夹下的 **global.db、 global.db-shm、global.db-wal** 三个文件 备份出来，然后覆盖新的Nas设备的同目录下。
+如果微信号被封了，使用终端工具，在旧Nas设备/硬盘/系统 把这个 `/var/apps/WxBackup/var/dbs/` 文件夹下的 **global.db、 global.db-shm、global.db-wal** 三个文件 备份出来，然后覆盖新Nas设备/硬盘/系统的同目录下。
 
 
 
